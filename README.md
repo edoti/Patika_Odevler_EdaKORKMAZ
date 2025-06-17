@@ -35,6 +35,8 @@ Kodlar, Google Colab üzerinde çalıştırılmak üzere hazırlanmış ve markd
 
 Challenge'ların çözümleri yer almaktadır.
 
+---
+
 ## 📦 Gereksinimler
 
 - Python 3.x
